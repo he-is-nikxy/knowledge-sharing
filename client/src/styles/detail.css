@@ -1,0 +1,27 @@
+.article-detail {
+  max-width: 800px;
+  margin: auto;
+  padding: 1rem;
+}
+
+.article-detail h2 {
+  margin-bottom: 0.5rem;
+}
+
+.summary-box {
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: #f6f6f6;
+  border-left: 4px solid #888;
+}
+
+.history-section {
+  margin-top: 2rem;
+  background: #f0f0f0;
+  padding: 1rem;
+}
+
+.history-entry {
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #ccc;
+}
